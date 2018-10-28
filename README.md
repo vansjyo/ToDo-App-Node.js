@@ -1,5 +1,5 @@
 # To-Do-App
-Basic Todo List App
+Basic Todo List App buid using node.js
 
 
 ## Run the app
